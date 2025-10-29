@@ -213,3 +213,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
+
+
+# Specifically ignore large reference files
+/references/figma/Homepage.svg
