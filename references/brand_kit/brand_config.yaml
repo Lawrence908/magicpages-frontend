@@ -1,0 +1,115 @@
+brand_name: Magic Pages
+logo:
+  description: An open book with stars symbolizing imagination and adventure.
+  usage:
+    dark_background: Use white logo
+    light_background: Use deep blue or black
+    rules:
+    - Do not stretch or skew
+    - Do not rotate
+    - Do not use in single row
+    - Do not alter letter positions
+    - Do not separate logo elements
+    - Do not use unapproved colors
+    - Maintain whitespace around logo
+typography:
+  headlines:
+  - Roca Bold
+  - Roca Regular
+  body:
+  - Instrument Sans Medium
+  - Instrument Sans Regular
+  sources:
+    roca: https://use.typekit.net/dvg6jnb.css
+    instrument_sans: https://fonts.google.com/Instrument+Sans
+colors:
+  primary:
+    deep_blue: '#0209AA'
+    gold: '#FAD773'
+    cream: '#FEFAEF'
+    white: '#FFFFFF'
+    black: '#000000'
+aesthetic:
+  tone: Dreamy, magical, comforting
+  elements:
+  - stars
+  - open book
+  - night sky
+  - soft clouds
+  - whimsical style
+social_media:
+  profile_pictures:
+  - primary
+  - secondary
+  banner_style: Gradient with logo
+  platforms:
+  - Instagram
+  - Facebook
+  - General Use
+pdf_slices:
+- page: 1
+  file: brand_page_01.pdf
+  description: Page 1 from brand guidelines.
+- page: 2
+  file: brand_page_02.pdf
+  description: Page 2 from brand guidelines.
+- page: 3
+  file: brand_page_03.pdf
+  description: Page 3 from brand guidelines.
+- page: 4
+  file: brand_page_04.pdf
+  description: Page 4 from brand guidelines.
+- page: 5
+  file: brand_page_05.pdf
+  description: Page 5 from brand guidelines.
+- page: 6
+  file: brand_page_06.pdf
+  description: Page 6 from brand guidelines.
+- page: 7
+  file: brand_page_07.pdf
+  description: Page 7 from brand guidelines.
+- page: 8
+  file: brand_page_08.pdf
+  description: Page 8 from brand guidelines.
+- page: 9
+  file: brand_page_09.pdf
+  description: Page 9 from brand guidelines.
+- page: 10
+  file: brand_page_10.pdf
+  description: Page 10 from brand guidelines.
+- page: 11
+  file: brand_page_11.pdf
+  description: Page 11 from brand guidelines.
+- page: 12
+  file: brand_page_12.pdf
+  description: Page 12 from brand guidelines.
+- page: 13
+  file: brand_page_13.pdf
+  description: Page 13 from brand guidelines.
+- page: 14
+  file: brand_page_14.pdf
+  description: Page 14 from brand guidelines.
+- page: 15
+  file: brand_page_15.pdf
+  description: Page 15 from brand guidelines.
+- page: 16
+  file: brand_page_16.pdf
+  description: Page 16 from brand guidelines.
+- page: 17
+  file: brand_page_17.pdf
+  description: Page 17 from brand guidelines.
+- page: 18
+  file: brand_page_18.pdf
+  description: Page 18 from brand guidelines.
+- page: 19
+  file: brand_page_19.pdf
+  description: Page 19 from brand guidelines.
+- page: 20
+  file: brand_page_20.pdf
+  description: Page 20 from brand guidelines.
+- page: 21
+  file: brand_page_21.pdf
+  description: Page 21 from brand guidelines.
+- page: 22
+  file: brand_page_22.pdf
+  description: Page 22 from brand guidelines.
