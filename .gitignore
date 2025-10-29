@@ -213,19 +213,3 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
-
-# Large files that shouldn't be committed
-*.svg
-*.pdf
-*.psd
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.ico
-
-# Specifically ignore large reference files
-references/figma/*.svg
-references/figma/*.pdf
-references/brand_kit/*.psd
-references/brand_kit/*.png
