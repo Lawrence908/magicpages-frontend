@@ -56,6 +56,20 @@ const Footer: React.FC = () => {
             </button>
           </div>
         </div>
+
+      </div>
+      
+      {/* Hub Footer: link back to main site - dark section for contrast */}
+      <div className="bg-slate-900 py-6 mt-8">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+          <a
+            href="https://chrislawrence.ca"
+            className="inline-flex items-center gap-3 px-7 py-3 rounded-full border-2 border-magic-blue text-magic-blue font-semibold text-lg hover:bg-magic-blue hover:text-white transition-all duration-200 hover:-translate-y-0.5 hover:shadow-lg hover:shadow-magic-blue/30"
+            aria-label="Visit main site chrislawrence.ca to view all projects"
+          >
+            <span>Visit main site: chrislawrence.ca</span>
+          </a>
+        </div>
       </div>
     </footer>
   )
